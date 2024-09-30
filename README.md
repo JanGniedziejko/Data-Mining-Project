@@ -1,5 +1,12 @@
 ### BREWER’S FRIEND BEER RECIPES [[Dataset](https://docs.google.com/spreadsheets/d/1HLpOzRxqcbKK1yoMV07QNoNilzQSOt6AkGpC2Xg9kvo/edit?gid=99896485#gid=99896485)]
 
+### The code involves:
+- **Data Manipulation & Preprocessing:** Used pandas for data loading, cleaning, and transformations (handling missing values, standardizing features, encoding categorical variables)
+- **Classification Methods:** Applied multiple classification algorithms including Decision Tree, Random Forest, KNN, and Logistic Regression.
+- **Data Visualization:** Used matplotlib and seaborn for plotting value ranges, data distributions, and missing data patterns.
+- **Feature Engineering:** Converted nominal to numerical values and applied z-score standardization.
+
+
 ## First Part: Understanding the Problem and the Data
 In the first stage, we focus on getting to know the dataset and setting clear goals for what we want to achieve. This includes:
 
